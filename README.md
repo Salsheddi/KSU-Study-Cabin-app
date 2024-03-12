@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/Salsheddi/KSU Study Cabin app">
-    <img src="/img/Picture1.png" alt="Logo" width="500" height="400">
+    <img src="/img/Picture1.png" alt="Logo" width="300" height="300">
   </a>
 
 </div>
@@ -13,13 +13,15 @@
 <!-- introduction -->
 ## About The Project
 
-E-foods is a web-based restaurant management system that allows the restaurant manager to efficiently manage his operations. The system includes features such as staff rating, table booking, menu viewing, and ordering meals for customers. With E-foods, the restaurant manager can easily keep track of their staff's performance, streamline the booking process for customers, and manage orders.
+King Saud University students struggle to find available study rooms on campus, particularly during peak periods like exams or project deadlines. This results in wasted time, increased stress, and potential conflicts over space. A concrete example of this problem is a group of students working on a collaborative project who spends several hours searching across various campus buildings for a place to study together, only to be interrupted by another group claiming the same space due to the lack of a formal reservation system.
+By developing KSU Study Cabin an Android app that offers real-time visibility into available study rooms and an intuitive booking system, could streamline the process for King Saud University students by ensuring they can easily secure a place to study or collaborate with peers, anytime and anywhere on campus, ultimately fostering a more productive and satisfying academic environment.
+
 
 ## Website link
-https://itt427.github.io/E-Foods/index.html
+
 
 <!-- technology -->
 ## Built With
 
-* [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css)](https://skills.thijs.gg)
-* [![My Skills](https://skills.thijs.gg/icons?i=js,jquery)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,jira,java)](https://skills.thijs.gg)
+
