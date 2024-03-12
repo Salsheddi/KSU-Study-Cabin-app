@@ -4,8 +4,8 @@
 <br />
 <div align="center">
   
-  <a href="https://github.com/4lena/E-Foods">
-    <img src="/images/logooo.png" alt="Logo" width="500" height="400">
+  <a href="https://github.com/Salsheddi/KSU Study Cabin app">
+    <img src="/img/picture1.png" alt="Logo" width="500" height="400">
   </a>
 
 </div>
