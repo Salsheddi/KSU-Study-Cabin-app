@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/Salsheddi/KSU Study Cabin app">
-    <img src="/img/picture1.png" alt="Logo" width="500" height="400">
+    <img src="/img/Picture1.png" alt="Logo" width="500" height="400">
   </a>
 
 </div>
