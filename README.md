@@ -23,5 +23,5 @@ By developing KSU Study Cabin an Android app that offers real-time visibility in
 <!-- technology -->
 ## Built With
 
-* [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,Jira,java)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=,html,css,js,java,flutter)](https://skills.thijs.gg)
 
